@@ -1,0 +1,5 @@
+npm create vite@latest
+npm install
+npm run dev
+npm i bootstrap@5.3.3
+paste this in main.jsx(import 'bootstrap/dist/css/bootstrap.min.css')

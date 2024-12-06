@@ -1,0 +1,23 @@
+h1{
+  padding: 20px;
+  padding-bottom: 30px;
+  font-weight: 700;
+  font-size: 45px;
+}
+input{
+  width: 100%;
+}
+.row{
+  text-align: left;
+  margin:10px 5px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.newbtn{
+width: 80px;
+}
+.clockapp{
+  margin:10px 5px;
+  font-size: 18px;
+  font-weight: 600;
+}
