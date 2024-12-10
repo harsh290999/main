@@ -1,0 +1,7 @@
+.heading{
+color: blueviolet;
+
+display: flex;
+position: relative;
+justify-content: center;
+}

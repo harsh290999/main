@@ -1,0 +1,7 @@
+.container{
+  border: 2px solid #CDDC39;
+  margin: 50px;
+  border-radius: 10px;
+  width: 50%;
+  min-width: 100px;
+}
